@@ -28,8 +28,11 @@ main {
   margin: 20px 0px;
   text-align: center;
 }
+.text-bold {
+  font-weight: bold;
+}
 img {
-  margin: 10px;
+  margin: 10px 0px;
   width: 70%;
 }
 h2 {
